@@ -1,5 +1,5 @@
 @font-face {
-	font-family: "Bebas Neue", cursive;
+/* 	font-family: "Bebas Neue", cursive; */
 	font-family: 'Open Sans', sans-serif;
 }
 body {
@@ -9,7 +9,7 @@ body {
 }
 
 body .logotitle {
-	font-family: Bebas Neue;
+	font-family: Open Sans;
 	font-size: 50px;
 }
 
